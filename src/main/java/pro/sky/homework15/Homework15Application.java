@@ -1,4 +1,4 @@
-package pro.sky.Homework15;
+package pro.sky.homework15;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
